@@ -12,7 +12,7 @@ android {
         versionCode 75
         versionName "v1.4.3"
 
-        minSdk 25
+        minSdk 24
         targetSdk 31
 
         applicationId "com.chooloo.www.koler"
